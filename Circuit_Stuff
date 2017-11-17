@@ -1,0 +1,5 @@
+High Side Switching Circuit:
+To turn output when input has reached a particular threshold. Self controlled switch using mosfets.
+
+-- https://hackaday.com/2015/09/16/learn-and-build-a-high-side-switch/
+-- http://www.ti.com/power-management/integrated-load-switches/smart-high-side-switches/products.html
